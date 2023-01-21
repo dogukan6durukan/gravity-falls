@@ -8,13 +8,13 @@ export interface Routes {
     }
 
     server : {
-        base : string | null
-        allCharacters : string | null
-        singleCharacter : string | null
-        filterByOne : string | null
-        filterByNameAndEpisode : string | null
-        paginateByOne : string | null
-        paginateAllCharacters : string | null
+        base? : string | null
+        allCharacters? : string | null
+        singleCharacter? : string | null
+        filterByOne? : string | null
+        filterByNameAndEpisode? : string | null
+        paginateByOne? : string | null
+        paginateAllCharacters? : string | null
     }
 }
 
