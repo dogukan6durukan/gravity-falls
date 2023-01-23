@@ -57,7 +57,7 @@ async function scrapeData() {
     const { data } = await axios.get(URL);
     const $ = cheerio.load(data);
 
-    // * Take name values an put _ for empty spaces
+    // * Take name values and put _ for empty spaces
     const regex = new RegExp("^((?!Category).)*$");
     const names: characters = $(".category-page__member-link")
       .map((i, a) => $(a).text().replace(/(\s)/g, "_"))

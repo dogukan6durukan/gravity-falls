@@ -201,7 +201,7 @@ export default function Documentation() {
       <div className="">
         <h2>Get All Characters</h2>
         <p>
-          You can access the list of characters by using <code className="code-badge">/character</code> endpoint.
+          You can access the list of characters by using <code className="code-badge">/characters</code> endpoint.
         </p>
         <div>
           <div className="flex whitespace-nowrap space-x-2 sm:overflow-auto overflow-scroll sm:text-lg px-4 py-1 bg-black rounded-t">
