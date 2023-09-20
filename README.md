@@ -4,11 +4,11 @@ This project is a Gravity Falls API project that is built upon Next JS and type 
 Also, this project is open to any fixes and improvements. So don't be shy to collaborate on this project.
 
 You can check out my built API project below.
+[Gravity Falls API](https://gravity-falls-api.vercel.app/)
 
 ## TODO:
 - [ ] Make endpoint for available episodes and link characters with episodes
+- [ ] Make about section available as markdown.
 - [ ] Update documentation and make documentation available as markdown.
 - [ ] Code refactoring and strict types
-
-[Gravity Falls API](https://gravity-falls-api.vercel.app/)
 
