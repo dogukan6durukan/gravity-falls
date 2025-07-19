@@ -1,8 +1,6 @@
 # Gravity Falls API
 This project is a Gravity Falls API project that is built upon Next JS and type safety for Typescript. Besides I have used Planetscale for my database and used Prisma ORM for executing operations on Planetscale. Furthermore, I have used web scrapping with Cheerio to take relative information about characters.
 
-Also, this project is open to any fixes and improvements. So don't be shy to collaborate on this project.
-
 You can check out my built API project below.
 [Gravity Falls API](https://gravity-falls-api.vercel.app/)
 
@@ -10,12 +8,5 @@ You can check out my built API project below.
 Next JS
 Typescript
 
-## TODO:
-- [ ] Switch to Next JS 14
-- [ ] Code refactoring and strict types
-- [ ] Make endpoint for available episodes and link characters with episodes
-- [ ] Make about section available as markdown.
-- [ ] Update documentation and make documentation available as markdown.
-- [ ] Remove using `axios`and Prisma
-- [ ] Switch to jsdom for parsing datas.
-- [ ] Switch to another Database(Planetscale is removing their hobby program in 8th Ap 2024).
+
+**NOTE: AS THE PLANETSCALE DATABASE REMOVED THEIR FREE TIER DATABASE, AND DUE TO THE TIME OF EFFORT FOR SWITCHING DATABASES AND RE-INVENTING THE UNNECESSARY THINGS, AND NOT HAVING AN UPDATE FOR A LONG TIME FOR THIS PROJECT, I DECIDED TO ARCHIVE IT. THE LINK FOR THE WEBSITE AND API ARE STILL ACCESSIBLE, BUT DON'T WAIT FOR THE API TO WORK. I WILL JUST KEEP THE WEBSITE ALIVE FOR YOU TO HAVE SOME IDEA OF HOW I INTEGRATED THIS PROJECT. IT ALSO DOESN'T MEAN I CUT THE IDEA OF THIS PROJECT HERE. I STILL HAVE SOME IDEAS TO IMPLEMENT THIS PROJECT WITH FIXING ALL THE WRONGS HERE, BUT FOR NOW, IT WILL BE ARCHIVED.**
